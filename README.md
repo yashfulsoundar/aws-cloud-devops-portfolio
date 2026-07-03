@@ -49,7 +49,6 @@ aws-cloud-devops-portfolio/
 ├── README.md
 ├── .gitignore
 └── assets/
-    ├── images/
     └── resume/
 ```
 
