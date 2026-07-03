@@ -83,8 +83,7 @@ Aspiring Cloud & DevOps Engineer
 
 GitHub: https://github.com/yashfulsoundar
 
-LinkedIn: (Add your LinkedIn URL)
-
+LinkedIn: linkedin.com/in/yash-fulsoundar-6a7933319
 ---
 
 ⭐ If you like this project, consider giving it a star.
